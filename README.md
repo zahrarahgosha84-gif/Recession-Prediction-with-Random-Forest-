@@ -70,6 +70,6 @@ The Composite Leading Indicator (plus its lagged/smoothed versions) and S&P500 r
 - `chart_*.png` — the charts in this README
 
 
-<p align="center">
+
   <img src="data/images (15).jpeg" width="100%" height="250">
-</p>
+
