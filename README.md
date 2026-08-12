@@ -2,7 +2,8 @@
 
 A small project to see if a Random Forest can predict US recessions using monthly economic indicators from 1963 to 2012.
 
-Here's the model in action — the top chart shows the predicted recession probability climbing as we approach the 2008 financial crisis (the shaded red area is the actual recession), and the bottom chart shows which features the model leaned on most heavily to make that call.
+Here's the model in action 
+the top chart shows the predicted recession probability climbing as we approach the 2008 financial crisis (the shaded red area is the actual recession), and the bottom chart shows which features the model leaned on most heavily to make that call.
 
 <img src="charts/model_demo.gif" width="700">
 
