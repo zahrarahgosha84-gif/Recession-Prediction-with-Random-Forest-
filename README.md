@@ -64,8 +64,4 @@ The Composite Leading Indicator (plus its lagged/smoothed versions) and S&P500 r
 - `leading_indicators.csv`, `recession_state.csv` — raw data
 - `chart_*.png` — the charts in this README
 
-## What I'd try next
 
-- Recall is low (26%). Lowering the threshold would catch more recessions but also mean more false alarms — it's a tradeoff.
-- Could pull in more features from FRED: unemployment rate, industrial production, credit spreads.
-- Data only goes up to 2012, so for anything current I'd need to update it.
