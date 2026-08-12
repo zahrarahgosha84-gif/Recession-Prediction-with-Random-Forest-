@@ -69,4 +69,7 @@ The Composite Leading Indicator (plus its lagged/smoothed versions) and S&P500 r
 - `leading_indicators.csv`, `recession_state.csv` — raw data
 - `chart_*.png` — the charts in this README
 
-<img src="charts/images (15).jpeg" width="400">
+
+<p align="center">
+  <img src="data/images (15).jpeg" width="100%" height="250">
+</p>
