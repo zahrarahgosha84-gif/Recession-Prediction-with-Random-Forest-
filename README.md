@@ -33,7 +33,8 @@ Recessions are rare — only about 15% of months. That matters a lot for how you
 
 ### Confusion matrix
 
-![Confusion Matrix](chart_confusion.png)
+
+<img src="charts/chart_confusion.png" width="700">
 
 Out of 19 actual recession months in the test set, the model caught 5 of them, and never raised a false alarm (precision is 100%).
 
