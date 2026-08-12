@@ -34,13 +34,14 @@ Recessions are rare — only about 15% of months. That matters a lot for how you
 ### Confusion matrix
 
 
-<img src="charts/chart_confusion.png" width="700">
+<img src="charts/chart_confusion.png" width="500">
 
 Out of 19 actual recession months in the test set, the model caught 5 of them, and never raised a false alarm (precision is 100%).
 
 ### ROC curve
 
-![ROC Curve](chart_roc.png)
+
+<img src="charts/chart_roc.png" width="500">
 
 AUC of 0.97 means the model is genuinely good at ranking risky months higher than safe ones — it's just being cautious about where it draws the line.
 
