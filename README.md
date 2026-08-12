@@ -6,8 +6,8 @@ A small project to see if a Random Forest can predict US recessions using monthl
 
 Monthly data: S&P500 returns, Treasury yield spreads (3-month to 10-year), and the Composite Leading Indicator, plus a recession label based on the NBER definition. There are 7 recessions in this period.
 
-![Recessions over time](chart_timeline.png)
-<img src="charts/chart_timeline.png" width="300">
+
+<img src="charts/chart_timeline.png" width="500">
 
 Recessions are rare — only about 15% of months. That matters a lot for how you evaluate the model later, since accuracy alone can be misleading here.
 
