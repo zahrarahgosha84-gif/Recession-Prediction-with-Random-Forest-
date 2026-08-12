@@ -2,6 +2,8 @@
 
 A small project to see if a Random Forest can predict US recessions using monthly economic indicators from 1963 to 2012.
 
+<img src="charts/model_demo.gif" width="700">
+
 ## The data
 
 Monthly data: S&P500 returns, Treasury yield spreads (3-month to 10-year), and the Composite Leading Indicator, plus a recession label based on the NBER definition. There are 7 recessions in this period.
