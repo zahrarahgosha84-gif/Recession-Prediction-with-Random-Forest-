@@ -34,7 +34,7 @@ Recessions are rare — only about 15% of months. That matters a lot for how you
 ### Confusion matrix
 
 
-<img src="charts/chart_confusion.png" width="500">
+<img src="charts/chart_confusion.png" width="400">
 
 Out of 19 actual recession months in the test set, the model caught 5 of them, and never raised a false alarm (precision is 100%).
 
@@ -47,7 +47,8 @@ AUC of 0.97 means the model is genuinely good at ranking risky months higher tha
 
 ### Predicted probability during the test period
 
-![Probability over test](chart_test_probability.png)
+
+<img src="charts/chart_test_probability.png" width="500">
 
 Black line is the model's predicted recession probability, red shading is the actual recession. You can see the probability climbs around the real recession, it just doesn't always cross the threshold.
 
