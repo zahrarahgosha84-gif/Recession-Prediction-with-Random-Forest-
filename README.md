@@ -71,5 +71,5 @@ The Composite Leading Indicator (plus its lagged/smoothed versions) and S&P500 r
 
 
 
-<img src="charts/images (15).jpeg" width="300" >
+<img src="charts/images (15).jpeg" width="700" >
 
