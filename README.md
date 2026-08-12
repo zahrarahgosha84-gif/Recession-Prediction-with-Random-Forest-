@@ -41,21 +41,21 @@ Out of 19 actual recession months in the test set, the model caught 5 of them, a
 ### ROC curve
 
 
-<img src="charts/chart_roc.png" width="500">
+<img src="charts/chart_roc.png" width="400">
 
 AUC of 0.97 means the model is genuinely good at ranking risky months higher than safe ones — it's just being cautious about where it draws the line.
 
 ### Predicted probability during the test period
 
 
-<img src="charts/chart_test_probability.png" width="500">
+<img src="charts/chart_test_probability.png" width="700">
 
 Black line is the model's predicted recession probability, red shading is the actual recession. You can see the probability climbs around the real recession, it just doesn't always cross the threshold.
 
 ### Feature importance
 
-![Feature Importance](chart_importance.png)
 
+<img src="charts/chart_importance.png" width="700">
 The Composite Leading Indicator (plus its lagged/smoothed versions) and S&P500 returns were the biggest drivers for the model.
 
 ## Files
